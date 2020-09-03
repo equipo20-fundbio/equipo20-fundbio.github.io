@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+markdown: kramdown
+title: Fundamentos de Biodiseño
+description: Ingeniería Biomédica PUCP-UPCH
+show_downloads: true
+
