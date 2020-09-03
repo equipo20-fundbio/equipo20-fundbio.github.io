@@ -1,5 +1,5 @@
 ---
-layout: instructor
+layout: miembros
 ---
 ### Desarrollador
 ![Alt text](/miembros/desarrollador.jpg){:height="140px" width="140px"}
