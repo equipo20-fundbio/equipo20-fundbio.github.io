@@ -1,7 +1,7 @@
 ---
 layout: miembros
 ---
-#Miembros del Equipo
+##Miembros del Equipo
 
 ### Diseñador
 ![Alt text](/miembros/disenador.jpg){:height="140px" width="140px"}
