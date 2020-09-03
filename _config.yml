@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-markdown: kramdown
+markdown: markdown
 title: E20
 description: FUND
 show_downloads: true
