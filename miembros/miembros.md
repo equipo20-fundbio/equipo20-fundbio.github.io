@@ -1,11 +1,6 @@
 ---
 layout: miembros
 ---
-### Desarrollador
-![Alt text](/miembros/desarrollador.jpg){:height="140px" width="140px"}
-
-*Alumno 1*
-><div style="text-align: justify"> Encargado de la programacion.</div>
 
 ### Diseñador
 ![Alt text](/miembros/disenador.jpg){:height="140px" width="140px"}
@@ -18,3 +13,9 @@ layout: miembros
 
 *Alumno 3*
 ><div style="text-align: justify">Entre sus tareas esta el estado del arte y soluciones existentes</div>
+
+### Desarrollador
+![Alt text](/miembros/desarrollador.jpg){:height="140px" width="140px"}
+
+*Alumno 1*
+><div style="text-align: justify"> Encargado de la programacion.</div>
