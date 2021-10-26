@@ -3,7 +3,7 @@
 #include <Adafruit_PCD8544.h>
 
 /* Declare LCD object for SPI
- Adafruit_PCD8544(CLK,DIN,D/C,CE,RST); */
+ Adafruit_PCD8544(CLK,DIN,D/C,CE,RST); */ ///
 Adafruit_PCD8544 display = Adafruit_PCD8544(18, 23, 4, 5, 2);
 int contrastValue = 60; // Default Contrast Value
 
